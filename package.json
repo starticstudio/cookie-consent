@@ -1,0 +1,12 @@
+{
+  "name": "@starticstudio/cookie-consent",
+  "version": "1.0.0",
+  "description": "A cookie consent manager",
+  "main": "dist/fs-cc.js",
+  "files": [
+    "dist"
+  ],
+  "keywords": ["cookie", "consent", "manager"],
+  "author": "Startic Studio",
+  "license": "MIT"
+}
